@@ -1,4 +1,4 @@
-# PackageName Template
+# Package Template
 
 This is a starter template for creating a new package for the Advanced Web Tools (AWT) framework. It provides a basic file structure, a pre-configured welcome page, and examples of how to set up controllers, routes, and views.
 
