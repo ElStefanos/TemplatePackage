@@ -1,0 +1,6 @@
+/build/
+/releases/
+/.idea/
+build.bat
+build.sh
+readme.md
