@@ -7,7 +7,7 @@
 
         <div class="headline">
             <h1 id="welcome-heading">Welcome to {{ $name }}</h1>
-            <p class="lead">A minimal, elegant starting page that mirrors the clean style of modern frameworks — dark mode, responsive and ready to extend.</p>
+            <p class="lead">A starting point for your package. Handle with love <3</p>
 
             <div class="small">Built with care — customize this template for your app.</div>
         </div>
